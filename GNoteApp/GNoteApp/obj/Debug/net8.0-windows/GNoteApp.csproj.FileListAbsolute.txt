@@ -1,0 +1,17 @@
+C:\repo\gnoteapp\GNoteApp\GNoteApp\bin\Debug\net8.0-windows\GNoteApp.exe
+C:\repo\gnoteapp\GNoteApp\GNoteApp\bin\Debug\net8.0-windows\GNoteApp.deps.json
+C:\repo\gnoteapp\GNoteApp\GNoteApp\bin\Debug\net8.0-windows\GNoteApp.runtimeconfig.json
+C:\repo\gnoteapp\GNoteApp\GNoteApp\bin\Debug\net8.0-windows\GNoteApp.dll
+C:\repo\gnoteapp\GNoteApp\GNoteApp\bin\Debug\net8.0-windows\GNoteApp.pdb
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.Form1.resources
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.csproj.GenerateResource.cache
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.AssemblyInfoInputs.cache
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.AssemblyInfo.cs
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.csproj.CoreCompileInputs.cache
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.sourcelink.json
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.dll
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\refint\GNoteApp.dll
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.pdb
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\GNoteApp.genruntimeconfig.cache
+C:\repo\gnoteapp\GNoteApp\GNoteApp\obj\Debug\net8.0-windows\ref\GNoteApp.dll
