@@ -59,7 +59,7 @@
             helpMenu = new ToolStripMenuItem();
             viewHelpHelpMenu = new ToolStripMenuItem();
             aboutNotepadHelpMenu = new ToolStripMenuItem();
-            richTextBox1 = new RichTextBox();
+            txtArea = new RichTextBox();
             menuBar.SuspendLayout();
             SuspendLayout();
             // 
@@ -85,6 +85,7 @@
             newFileMenu.ShortcutKeys = Keys.Control | Keys.N;
             newFileMenu.Size = new Size(155, 22);
             newFileMenu.Text = "New";
+            newFileMenu.Click += newFileMenu_Click;
             // 
             // openFileMenu
             // 
@@ -267,25 +268,27 @@
             aboutNotepadHelpMenu.Size = new Size(156, 22);
             aboutNotepadHelpMenu.Text = "About Notepad";
             // 
-            // richTextBox1
+            // txtArea
             // 
-            richTextBox1.Dock = DockStyle.Fill;
-            richTextBox1.Location = new Point(0, 24);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(800, 426);
-            richTextBox1.TabIndex = 1;
-            richTextBox1.Text = "";
+            txtArea.Dock = DockStyle.Fill;
+            txtArea.Location = new Point(0, 24);
+            txtArea.Name = "txtArea";
+            txtArea.Size = new Size(800, 426);
+            txtArea.TabIndex = 1;
+            txtArea.Text = "";
+            txtArea.TextChanged += txtArea_TextChanged;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(richTextBox1);
+            Controls.Add(txtArea);
             Controls.Add(menuBar);
             MainMenuStrip = menuBar;
             Name = "Form1";
             Text = "GNote";
+            Load += Form1_Load;
             menuBar.ResumeLayout(false);
             menuBar.PerformLayout();
             ResumeLayout(false);
@@ -304,7 +307,7 @@
         private ToolStripMenuItem formatMenu;
         private ToolStripMenuItem statusBarViewMenu;
         private ToolStripMenuItem helpMenu;
-        private RichTextBox richTextBox1;
+        private RichTextBox txtArea;
         private ToolStripMenuItem undoEditMenu;
         private ToolStripSeparator toolStripSeparator1;
         private ToolStripMenuItem cutEditMenu;

@@ -1,0 +1,12 @@
+C:\repo\gnoteapp\GNoteApp\GNoteCore\bin\Debug\net8.0\GNoteCore.deps.json
+C:\repo\gnoteapp\GNoteApp\GNoteCore\bin\Debug\net8.0\GNoteCore.dll
+C:\repo\gnoteapp\GNoteApp\GNoteCore\bin\Debug\net8.0\GNoteCore.pdb
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\GNoteCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\GNoteCore.AssemblyInfoInputs.cache
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\GNoteCore.AssemblyInfo.cs
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\GNoteCore.csproj.CoreCompileInputs.cache
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\GNoteCore.sourcelink.json
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\GNoteCore.dll
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\refint\GNoteCore.dll
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\GNoteCore.pdb
+C:\repo\gnoteapp\GNoteApp\GNoteCore\obj\Debug\net8.0\ref\GNoteCore.dll
